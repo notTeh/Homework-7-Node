@@ -63,8 +63,8 @@ Follow the prompts to interact with the application.
 
 ## Screenshots
 
-![Application Demo](./assets/images/demo.png)
-*[Replace with actual screenshot or demo recording of your application]*
+[![Application Demo](./assets/images/demo.png)
+*[Replace with actual screenshot or demo recording of your application]*](https://github.com/user-attachments/assets/8063add2-07dd-4262-b6e7-bef456812a40)
 
 ## License
 
